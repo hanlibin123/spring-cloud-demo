@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/spring-cloud-customer/spring-cloud-customer.iml" filepath="$PROJECT_DIR$/spring-cloud-customer/spring-cloud-customer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-cloud-eureka/spring-cloud-eureka.iml" filepath="$PROJECT_DIR$/spring-cloud-eureka/spring-cloud-eureka.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-cloud-provide/spring-cloud-provide.iml" filepath="$PROJECT_DIR$/spring-cloud-provide/spring-cloud-provide.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-cloud-provide-riddon/spring-cloud-provide-riddon.iml" filepath="$PROJECT_DIR$/spring-cloud-provide-riddon/spring-cloud-provide-riddon.iml" />
+    </modules>
+  </component>
+</project>
